@@ -15,4 +15,4 @@ We released the training/evaluation code to reproduce the evaluation results in 
 
 ### Annotation Dataset
 
-Coming Soon...
+We annotated a small amount of NL/snippet pairs to train the classifier, which are released [here](https://github.com/conala-anonymous/annotation_dataset)
