@@ -1,7 +1,3 @@
----
-title: Mining Aligned NL-Code Pairs from Stack Overflow
----
-
 ## Introduction
 
 We propose, conala, a scalable, language-agnostic approach for mining parallel corpus of source code and natural language from Stack Overflow (SO). It consists of two components:
@@ -15,7 +11,7 @@ We propose, conala, a scalable, language-agnostic approach for mining parallel c
 
 ### Mining 
 
-We released the training/evaluation code to reproduce the evaluation results in our submission at [here](http://https://github.com/conala-anonymous/sominer)
+We released the training/evaluation code to reproduce the evaluation results in our submission at [here](https://github.com/conala-anonymous/sominer)
 
 ### Annotation Dataset
 
